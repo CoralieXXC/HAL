@@ -101,7 +101,7 @@
                             <classCode scheme="classification">PACS</classCode><!-- %%metadata classification-->
                             <classCode scheme="halDomain" n="info">Computer Science [cs]</classCode><!-- %%mandatory metadata domain-->
                             <classCode scheme="halDomain" n="info.eiah">Computer Science [cs]/Technology for Human Learning</classCode>
-                            <classCode scheme="halTypology" n="THESE">Conference paper</classCode><!-- %%mandatory metadata-->
+                            <classCode scheme="halTypology" n="THESE">Theses</classCode><!-- %%mandatory metadata-->
                         </textClass>
                         <abstract xml:lang="en">resume_en</abstract><!-- %%metadata abstract-->
                         <abstract xml:lang="fr">resume_fr</abstract>
